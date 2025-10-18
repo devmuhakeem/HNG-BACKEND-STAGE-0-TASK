@@ -56,8 +56,8 @@ app.get('/me', async (req, res) => {
     const profileData = {
       status: "success",
       user: {
-        email: "iazeez775@gmail.com", 
-        name: "Idris Azeez", 
+        email: "devmuhakeem@gmail.com", 
+        name: "Muhammed Abdulakeem Akinpelumi", 
         stack: "Node.js/Express" 
       },
       timestamp: timestamp,
